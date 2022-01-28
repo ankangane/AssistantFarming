@@ -1,0 +1,24 @@
+<div class="jumbotron py-3">
+    <h1 class="display-4 text-center">Get Farming Tips Details</h1>
+</div>
+<div class="row">
+    <div class="col-md-5">
+        <app-getfarmingtips-detail-form></app-getfarmingtips-detail-form>
+    </div>
+    <div class="col-md-7">
+        <div>Table with list of records from the Database</div>
+    </div>
+    <table class="table">
+        <thead class="thead-light">
+            <tr>
+                <th>Farming Tips ID   </th>
+                <th>Farming Tips Message</th>  
+            </tr>
+        </thead>
+        <tr *ngFor="let pd of service.list">
+            <td (click)="populateForm(pd)">{{pd.farmingTipsId}}</td>
+            <td (click)="populateForm(pd)">{{pd.farmingTipsMessage}}</td>
+            
+        </tr>
+    </table>
+</div>

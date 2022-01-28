@@ -1,0 +1,32 @@
+<form novalidate autocomplete="off" #form="ngForm" (submit)="onSubmit(form)">
+    <input type="hidden" name="complaintsId" [value]="service.formData.complaintsId" />
+    <div class="form-group">
+        <label>Complaint Messsage</label>
+        <input class="form-control form-control-lg" placeholder="Message" name="complaintMessage"
+            #complaintMessage="ngModel" [(ngModel)]="service.formData.complaintMessage"
+            required [class.invalid]="complaintMessage.invalid &#038;&#038; complaintMessage.touched">
+    </div>
+    <!-- <div class="form-group">
+        <label>Complaint Status</label>
+        <input class="form-control form-control-lg" placeholder="Input PENDING or RESOLVED" name="complaintMessage"
+            #complaintStatus="ngModel" [(ngModel)]="service.formData.complaintStatus"
+            required [class.invalid]="complaintStatus.invalid &#038;&#038; complaintStatus.touched">
+    </div> -->
+    <div class="form-group">
+        <label for ="Complaint Status">Complaint Status</label>
+            <select name="Complaint Status" id="Complaint Status"
+            #complaintStatus="ngModel" [(ngModel)]="service.formData.complaintStatus"
+            required [class.invalid]="complaintStatus.invalid &#038;&#038; complaintStatus.touched">
+            class="form-control form-control-lg">
+            <option value="0">PENDING</option>
+            <option value="1">RESOLVED</option>
+           
+            </select>
+           
+    </div>
+
+    <div class="form-group">
+        <button class="btn btn-info btn-lg btn-block" type="submit" [disabled]="form.invalid">SUBMIT</button>
+
+    </div>
+</form>

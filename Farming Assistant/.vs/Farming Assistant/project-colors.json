@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e653c8eb-c069-4b61-9d79-792254bb2e31": {
+      "ProjectGuid": "e653c8eb-c069-4b61-9d79-792254bb2e31",
+      "DisplayName": "Farming Assistant",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

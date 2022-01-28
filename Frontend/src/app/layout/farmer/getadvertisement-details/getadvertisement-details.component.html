@@ -1,0 +1,32 @@
+<div class="jumbotron py-3">
+    <h1 class="display-4 text-center">Get Advertisement Details</h1>
+</div>
+<div class="row">
+    <div class="col-md-5">
+        <app-getadvertisement-detail-form></app-getadvertisement-detail-form>
+    </div>
+    <div class="col-md-7">
+        <div>Table with list of records from the Database</div>
+    </div>
+    <table class="table">
+        <thead class="thead-light">
+            <tr>
+                <th>Advertisement ID</th>
+                <th>Advertisement Message</th>
+                <th>Advertisement Status</th>
+                <th>Action</th>
+               
+            </tr>
+        </thead>
+        <tr *ngFor="let pd of service.list">
+            <td (click)="populateForm(pd)">{{pd.advertisementId}}</td>
+            <td (click)="populateForm(pd)">{{pd.advertisementMessage}}</td>
+            <td (click)="populateForm(pd)">{{pd.advertisementStatus}}</td>
+            <td>
+                <i class="fa fa-send-check-fill fa-lg text-danger" aria-hidden="true" (click)="updateStatusDialog(pd.advertisementId)">Update Status</i>
+             </td>
+
+            
+        </tr>
+    </table>
+</div>

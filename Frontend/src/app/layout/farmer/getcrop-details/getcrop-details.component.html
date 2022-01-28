@@ -1,0 +1,36 @@
+<div class="jumbotron py-3">
+    <h1 class="display-4 text-center">Get Crop Details</h1>
+</div>
+<div class="row">
+    <div class="col-md-5">
+        <app-getcrop-detail-form></app-getcrop-detail-form>
+    </div>
+    <div class="col-md-7">
+        <div>Table with list of records from the Database</div>
+    </div>
+    <table class="table">
+        <thead class="thead-light">
+            <tr>
+                <th>Crop ID</th>
+                <th>Crop Name</th>
+                <th>Crop Category</th>
+                <th>Crop Status</th>
+                <th>Crop Price in rupees</th>
+                <th>Crop Quantity</th>
+                <th>Action </th>
+            </tr>
+        </thead>
+        <tr *ngFor="let pd of service.list">
+            <td (click)="populateForm(pd)">{{pd.cropId}}</td>
+            <td (click)="populateForm(pd)">{{pd.cropName}}</td>
+            <td (click)="populateForm(pd)">{{pd.cropCategory}}</td>
+            <td (click)="populateForm(pd)">{{pd.cropStatus}}</td>
+            <td (click)="populateForm(pd)">{{pd.cropPriceInRupeesPerKg}}</td>
+            <td (click)="populateForm(pd)">{{pd.cropQuanity}}</td>
+            <td>
+                <i class="fa fa-trash fa-lg text-danger" aria-hidden="true" (click)="onDelete(pd.cropId)">click</i>
+             </td>
+            
+        </tr>
+    </table>
+</div>

@@ -1,0 +1,116 @@
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\appsettings.Development.json
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\appsettings.json
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Farming Assistant.exe
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Farming Assistant.deps.json
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Farming Assistant.runtimeconfig.json
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Farming Assistant.runtimeconfig.dev.json
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Farming Assistant.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\ref\Farming Assistant.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Farming Assistant.pdb
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Humanizer.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.csproj.AssemblyReference.cache
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.AssemblyInfoInputs.cache
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.AssemblyInfo.cs
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.csproj.CoreCompileInputs.cache
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.MvcApplicationPartsAssemblyInfo.cs
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.MvcApplicationPartsAssemblyInfo.cache
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\obj\Debug\net5.0\scopedcss\bundle\Farming Assistant.styles.css
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\obj\Debug\net5.0\staticwebassets\Farming Assistant.StaticWebAssets.Manifest.cache
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.RazorTargetAssemblyInfo.cache
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.csproj.CopyComplete
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\obj\Debug\net5.0\ref\Farming Assistant.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.pdb
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.genruntimeconfig.cache
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\appsettings.Development.json
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\appsettings.json
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Farming Assistant.exe
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Farming Assistant.deps.json
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Farming Assistant.runtimeconfig.json
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Farming Assistant.runtimeconfig.dev.json
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Farming Assistant.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\ref\Farming Assistant.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Farming Assistant.pdb
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Humanizer.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.csproj.AssemblyReference.cache
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.AssemblyInfoInputs.cache
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.AssemblyInfo.cs
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.csproj.CoreCompileInputs.cache
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.MvcApplicationPartsAssemblyInfo.cs
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.MvcApplicationPartsAssemblyInfo.cache
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\obj\Debug\net5.0\scopedcss\bundle\Farming Assistant.styles.css
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\obj\Debug\net5.0\staticwebassets\Farming Assistant.StaticWebAssets.Manifest.cache
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.RazorTargetAssemblyInfo.cache
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.csproj.CopyComplete
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\obj\Debug\net5.0\ref\Farming Assistant.dll
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.pdb
+E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.genruntimeconfig.cache

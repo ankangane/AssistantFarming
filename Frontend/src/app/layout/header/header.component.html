@@ -1,0 +1,99 @@
+<!-- <mat-toolbar color="secondary" style="padding-top: 0%!important;">
+	<mat-nav-list class="list-horizontal" id="header">
+    <mat-list-item>
+      <h1>AGRO</h1>
+    </mat-list-item>
+     <mat-list-item>
+      <button mat-menu-item >Home</button>
+    </mat-list-item>
+
+	  <mat-list-item>
+      <button mat-menu-item [matMenuTriggerFor]="aboutmenu">About</button>
+    </mat-list-item>
+    <mat-menu #aboutmenu="matMenu" [overlapTrigger]="false">
+      <button mat-menu-item>
+        <mat-icon>home</mat-icon>
+        <span>about</span>
+      </button>
+    </mat-menu>
+
+
+
+    <mat-list-item>
+      <button style="margin-left: 900px;" mat-menu-item [matMenuTriggerFor]="profilemenu">Profile</button>
+    </mat-list-item>
+    <mat-menu #profilemenu="matMenu" [overlapTrigger]="false">
+      <button mat-menu-item>
+        <mat-icon>Logout</mat-icon>
+        <span>Logout</span>
+      </button>
+      <button mat-menu-item >
+        <mat-icon>password</mat-icon>
+        <span>change password</span>
+      </button>
+     
+    </mat-menu>
+
+    
+
+
+  </mat-nav-list>
+</mat-toolbar> -->
+
+  <!-- <div class=""><p>
+    Shows how to make a horizontal <code>mat-nav-list</code> by using some custom css.
+  </p>
+  <p>
+    Take a look inside <code>/styles.scss</code> to see the implementation.
+  </p> -->
+  <!-- <p>
+    See the issue on <a href="https://stackoverflow.com/questions/49161039/mat-nav-list-horizontal-instead-of-vertical">StackOverflow</a>.
+  </p> </div>-->
+
+
+<!--
+Copyright Google LLC All Rights Reserved.
+
+Use of this source code is governed by an MIT-style license that can be
+found in the LICENSE file at https://angular.io/license
+-->
+
+<header>
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-light" style="background-image: linear-gradient(to right, rgba(201, 230, 204, 0), rgb(175, 236, 185));">
+    <div class="container-fluid">
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-mdb-toggle="collapse"
+        data-mdb-target="#navbarExample01"
+        aria-controls="navbarExample01"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarExample01">
+        <ul class="navbar-nav me-auto mb-4 mb-lg-0">
+          <li class="nav-item active">
+            <a class="nav-link" aria-current="page" href="#" style="color: black;">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" style="color: black;">Features</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" style="color: black;">Pricing</a>
+          </li>
+          <li class="nav-item" style="margin-left: 800px;">
+            <a class="nav-link" href="#" style="color: black;">Profile</a>
+          </li>
+        </ul>
+        <button mat-button  (click)="openReviewDialog()">Login</button>
+        <button mat-button  (click)="openReviewDialog1()">SignUp</button>
+      </div>
+    </div>
+  </nav>
+  <!-- Navbar -->
+
+  
+</header>
