@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\Project_Git\\Phase2\\AssistantFarming\\Farming Assistant\\Farming Assistant\\Farming Assistant.csproj": {}
+    "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\Project_Git\\Phase2\\AssistantFarming\\Farming Assistant\\Farming Assistant\\FarmingAssistant.csproj": {}
   },
   "projects": {
-    "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\Project_Git\\Phase2\\AssistantFarming\\Farming Assistant\\Farming Assistant\\Farming Assistant.csproj": {
+    "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\Project_Git\\Phase2\\AssistantFarming\\Farming Assistant\\Farming Assistant\\FarmingAssistant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\Project_Git\\Phase2\\AssistantFarming\\Farming Assistant\\Farming Assistant\\Farming Assistant.csproj",
-        "projectName": "Farming Assistant",
-        "projectPath": "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\Project_Git\\Phase2\\AssistantFarming\\Farming Assistant\\Farming Assistant\\Farming Assistant.csproj",
+        "projectUniqueName": "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\Project_Git\\Phase2\\AssistantFarming\\Farming Assistant\\Farming Assistant\\FarmingAssistant.csproj",
+        "projectName": "FarmingAssistant",
+        "projectPath": "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\Project_Git\\Phase2\\AssistantFarming\\Farming Assistant\\Farming Assistant\\FarmingAssistant.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
         "outputPath": "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\Project_Git\\Phase2\\AssistantFarming\\Farming Assistant\\Farming Assistant\\obj\\",
         "projectStyle": "PackageReference",

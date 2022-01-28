@@ -5793,19 +5793,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DARKSPIDER\\.nuget\\packages\\": {}
+    "C:\\Users\\hp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Work\\Capgemini\\Training Modules\\Full Stack Development iDigital8\\Case Study Team 12\\Case Study Sol\\Farming Assistant\\Farming Assistant\\Farming Assistant.csproj",
-      "projectName": "Farming Assistant",
-      "projectPath": "E:\\Work\\Capgemini\\Training Modules\\Full Stack Development iDigital8\\Case Study Team 12\\Case Study Sol\\Farming Assistant\\Farming Assistant\\Farming Assistant.csproj",
-      "packagesPath": "C:\\Users\\DARKSPIDER\\.nuget\\packages\\",
-      "outputPath": "E:\\Work\\Capgemini\\Training Modules\\Full Stack Development iDigital8\\Case Study Team 12\\Case Study Sol\\Farming Assistant\\Farming Assistant\\obj\\",
+      "projectUniqueName": "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\Project_Git\\Phase2\\AssistantFarming\\Farming Assistant\\Farming Assistant\\FarmingAssistant.csproj",
+      "projectName": "FarmingAssistant",
+      "projectPath": "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\Project_Git\\Phase2\\AssistantFarming\\Farming Assistant\\Farming Assistant\\FarmingAssistant.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\Project_Git\\Phase2\\AssistantFarming\\Farming Assistant\\Farming Assistant\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DARKSPIDER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5886,7 +5886,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

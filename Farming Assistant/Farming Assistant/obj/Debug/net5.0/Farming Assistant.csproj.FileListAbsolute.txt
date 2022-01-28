@@ -114,3 +114,62 @@ E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study T
 E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\obj\Debug\net5.0\ref\Farming Assistant.dll
 E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.pdb
 E:\Work\Capgemini\Training Modules\Full Stack Development iDigital8\Case Study Team 12\Case Study Sol\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.genruntimeconfig.cache
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\appsettings.Development.json
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\appsettings.json
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Farming Assistant.exe
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Farming Assistant.deps.json
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Farming Assistant.runtimeconfig.json
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Farming Assistant.runtimeconfig.dev.json
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Farming Assistant.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\ref\Farming Assistant.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Farming Assistant.pdb
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Humanizer.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.csproj.AssemblyReference.cache
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.AssemblyInfoInputs.cache
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.AssemblyInfo.cs
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.csproj.CoreCompileInputs.cache
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.MvcApplicationPartsAssemblyInfo.cs
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.MvcApplicationPartsAssemblyInfo.cache
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\obj\Debug\net5.0\staticwebassets\Farming Assistant.StaticWebAssets.Manifest.cache
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\obj\Debug\net5.0\staticwebassets\Farming Assistant.StaticWebAssets.xml
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\obj\Debug\net5.0\scopedcss\bundle\Farming Assistant.styles.css
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.RazorTargetAssemblyInfo.cache
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.csproj.CopyComplete
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\obj\Debug\net5.0\ref\Farming Assistant.dll
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.pdb
+D:\Cap Training\iDigital\FSD training\Case Study\Project_Git\Phase2\AssistantFarming\Farming Assistant\Farming Assistant\obj\Debug\net5.0\Farming Assistant.genruntimeconfig.cache
