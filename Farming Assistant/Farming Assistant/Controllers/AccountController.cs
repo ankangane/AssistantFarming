@@ -21,7 +21,7 @@ namespace Farming_Assistant.Controllers
             this.adminRepository = adminRepository;
         }
 
-        //Signing up
+        //Signing up for All
         [HttpPost]
         [Route("SignUp")]
         public IActionResult SignUp(SignUpDTO signindto)
