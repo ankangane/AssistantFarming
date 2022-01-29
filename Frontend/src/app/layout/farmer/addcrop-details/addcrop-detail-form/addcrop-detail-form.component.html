@@ -1,0 +1,59 @@
+<form novalidate autocomplete="off" #form="ngForm" (submit)="onSubmit(form)">
+    <input type="hidden" name="cropId" [value]="service.formData.cropId" />
+    <div class="form-group">
+        <label>Crop Name</label>
+        <input class="form-control form-control-lg" placeholder="Crop Name" name="cropName"
+            #cropName="ngModel" [(ngModel)]="service.formData.cropName"
+            required [class.invalid]="cropName.invalid &#038;&#038; cropName.touched">
+    </div>
+    <div class="form-group">
+        <label>Crop Quantity</label>
+        <input class="form-control form-control-lg" placeholder="Crop Quantity in kgs" name="cropQuanity"
+            #cropQuanity="ngModel" [(ngModel)]="service.formData.cropQuanity"
+            required [class.invalid]="cropQuanity.invalid &#038;&#038; cropQuanity.touched">
+    </div>
+    <div class="form-group">
+        <label>Crop Category</label>
+        <input class="form-control form-control-lg" placeholder="Crop Category" name="cropCategory"
+            #cropCategory="ngModel" [(ngModel)]="service.formData.cropCategory"
+            required [class.invalid]="cropCategory.invalid &#038;&#038; cropCategory.touched">
+    </div>
+    <!-- <div class="form-group">
+        <label>Crop Status</label>
+        <input class="form-control form-control-lg" placeholder="Crop Status Input any of one SENT, RECIEVED, REJECTED" name="cropStatus"
+            #cropStatus="ngModel" [(ngModel)]="service.formData.cropStatus"
+            required [class.invalid]="cropStatus.invalid &#038;&#038; cropStatus.touched">
+    </div> -->
+    <div class="form-group">
+
+        <label for ="Crop Status">Crop Status</label>
+
+            <select name="Crop Status" id="Crop Status"
+
+            #cropStatus="ngModel" [(ngModel)]="service.formData.cropStatus"
+
+            required [class.invalid]="cropStatus.invalid &#038;&#038; cropStatus.touched" style="width: 500px;">
+
+            class="form-control form-control-lg">
+
+            <option value="0">SENT</option>
+
+            <option value="1">RECIEVED</option>
+
+            <option value="2">REJECTED</option>
+
+            </select>
+
+    </div>
+    <div class="form-group">
+        <label>Crop Price in Rupees</label>
+        <input class="form-control form-control-lg" placeholder="Crop Price in Rupees" name="cropPriceInRupeesPerKg"
+            #cropPriceInRupeesPerKg="ngModel" [(ngModel)]="service.formData.cropPriceInRupeesPerKg"
+            required [class.invalid]="cropPriceInRupeesPerKg.invalid &#038;&#038; cropPriceInRupeesPerKg.touched">
+    </div>
+
+    <div class="form-group">
+        <button class="btn btn-info btn-lg btn-block" type="submit" [disabled]="form.invalid">SUBMIT</button>
+
+    </div>
+</form>

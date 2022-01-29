@@ -1,0 +1,56 @@
+<div class="jumbotron py-3">
+    <h1 class="display-4 text-center">Add Complaint</h1>
+</div>
+<div class="row">
+    <div class="col-md-5">
+        <app-addcomplaint-detail-form></app-addcomplaint-detail-form>
+    </div>
+    <div class="col-md-7">
+        <div>List of complaint added</div>
+    </div>
+    <table mat-table [dataSource]="service.datasource" class="mat-elevation-z8">
+
+        <!--- Note that these columns can be defined in any order.
+              The actual rendered columns are set as a property on the row definition" -->
+      
+        <!-- Position Column -->
+        <ng-container matColumnDef="complaintId">
+          <th mat-header-cell *matHeaderCellDef> No. </th>
+          <td mat-cell *matCellDef="let element"> {{element.complaintsId}} </td>
+        </ng-container>
+      
+        <!-- Name Column -->
+        <ng-container matColumnDef="complaintMessage">
+          <th mat-header-cell *matHeaderCellDef> Name </th>
+          <td mat-cell *matCellDef="let element"> {{element.complaintMessage}} </td>
+        </ng-container>
+      
+        <!-- Weight Column -->
+        <ng-container matColumnDef="complaintStatus">
+          <th mat-header-cell *matHeaderCellDef> Weight </th>
+          <td mat-cell *matCellDef="let element"> {{element.complaintStatus}} </td>
+        </ng-container>
+      
+      
+        <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+        <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+      </table>
+
+    <!-- <table class="table">
+        <thead class="thead-light">
+            <tr>
+                <th>Complaint ID</th>
+                <th>Complaint Message</th>
+                <th>Complaint Status</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tr *ngFor="let pd of service.list">
+            <td (click)="populateForm(pd)">{{pd.complaintsId}}</td>
+            <td (click)="populateForm(pd)">{{pd.complaintMessage}}</td>
+            <td (click)="populateForm(pd)">{{pd.complaintStatus}}</td>
+         
+
+        </tr>
+    </table> -->
+</div>

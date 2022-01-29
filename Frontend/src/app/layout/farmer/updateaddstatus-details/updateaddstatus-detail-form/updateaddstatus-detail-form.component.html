@@ -1,0 +1,26 @@
+<p>updateaddstatus-detail-form works!</p>
+<form novalidate autocomplete="off" #form="ngForm" (submit)="onSubmit(form)">
+    <div class="form-group">
+        <label>Advertisement ID</label>
+        <input class="form-control form-control-lg" placeholder="Input Advertisement ID" name="advertisementId"
+            #advertisementId="ngModel" [(ngModel)]="service.formData.advertisementId"
+            required [class.invalid]="advertisementId.invalid &#038;&#038; advertisementId.touched">
+    </div>
+    <div class="form-group">
+        <label for ="Advertisement Status">Advertisement Status</label>
+            <select name="Advertisement Status" id="Crop Status" 
+            #advertisementStatus="ngModel" [(ngModel)]="service.formData.advertisementStatus"
+            required [class.invalid]="advertisementStatus.invalid &#038;&#038; advertisementStatus.touched">
+            class="form-control form-control-lg">
+            <option value="0">PENDING</option>
+            <option value="1">ACCEPTED</option>
+            <option value="2">REJECTED</option>
+            </select>
+    </div>
+   
+
+    <div class="form-group">
+        <button class="btn btn-info btn-lg btn-block" type="submit" [disabled]="form.invalid">SUBMIT</button>
+
+    </div>
+</form>
