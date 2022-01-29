@@ -1,1 +1,1 @@
-export var rootUrl:string="http://localhost:5007/api/"
+export var rootUrl:string="http://localhost:33402/api/"
