@@ -9,7 +9,7 @@ EXPOSE 80
 
 FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build
 WORKDIR /src
-COPY ["Farming Assistant/FarmingAssistant.csproj", "Farming Assistant/"]
+COPY ["Farming Assistant/FarmingAssistant.csproj", "Farming Assistant/Dockerfile"]
 RUN dotnet restore "Farming Assistant/FarmingAssistant.csproj"
 COPY . .
 WORKDIR "/src/Farming Assistant"
