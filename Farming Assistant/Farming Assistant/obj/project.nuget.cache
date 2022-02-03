@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eDtup0qEDGQ2w7c7pMUd9brJUlkc9sqnQLRjgDoHFkOkKB0m7AlIkitDRZyiN3IwpO/fTOSYS05or6GORA7Yfg==",
+  "dgSpecHash": "PoyV2iowCD1UUx+jXDBdTSL2mVKa+8tD/zGhBwnwzpL1E1H1oDWSnJAuX0uvlXvItZ6FrzpeLlFMc2zPXqHy8g==",
   "success": true,
   "projectFilePath": "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\Project_Git\\Phase2\\AssistantFarming\\Farming Assistant\\Farming Assistant\\FarmingAssistant.csproj",
   "expectedPackageFiles": [
@@ -41,6 +41,7 @@
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
