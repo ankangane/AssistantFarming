@@ -1,0 +1,115 @@
+<div style="height: 330px;">
+<ngb-carousel >
+  <ng-template ngbSlide>
+    <div class="picsum-img-wrapper">
+      <img [src]="imageSrc" style="width: 1250px;height: 300px;" alt="Random first slide">
+    </div>
+    <div class="carousel-caption">
+      <h3>First slide label</h3>
+      <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+    </div>
+  </ng-template>
+  <ng-template ngbSlide>
+    <div class="picsum-img-wrapper">
+      <img [src]="imageSrc1" style="width: 1250px;height: 300px;" alt="Random second slide">
+    </div>
+    <div class="carousel-caption">
+      <h3>Second slide label</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </div>
+  </ng-template>
+  <ng-template ngbSlide>
+    <div class="picsum-img-wrapper">
+      <img [src]="imageSrc2" style="width: 1250px;height: 300px;" alt="Random third slide">
+    </div>
+    <div class="carousel-caption">
+      <h3>Third slide label</h3>
+      <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+    </div>
+  </ng-template>
+</ngb-carousel>
+</div>
+<div>
+     <!-- Background image -->
+ 
+  <div class="mask" style="background-image: linear-gradient(to right, rgba(201, 230, 204, 0), rgb(175, 236, 185));">
+    <div class="container" >
+      <div class="row">
+        <div class="col-md-1"></div>  
+        <div class="col-md-2 " style="background-image: url('../../../../assets/images/Farming/Admin.jpg');height: 250px; border-radius: 50%;">
+          <a [routerLink]="['/layout/admin/admin-operations']" title="Click here to perform admin related opreations">
+           Admin Operations
+            </a>
+        </div>
+        <div class="col-md-2"></div>  
+        
+        <div class="col-md-2 " style="background-image: url('../../../../assets/images/Farming/supplier_1.jpg');height:250px; border-radius: 50%;">
+          <a [routerLink]="['/layout/supplier/supplier-operations']" title="Click here to perform supplier related opreations">
+            
+              Supplier Operations
+            </a>
+        </div>
+        <div class="col-md-2"></div>
+        <div class="col-md-2" style="background-image: url('../../../../assets/images/Farming/Farmer.jpg');height: 250px; border-radius: 50%;">
+          <a [routerLink]="['/layout/farmer/farmer-operations']" title="Click here to perform farmer related opreations">
+            
+              Farmer Operations
+          </a>
+        </div>
+      </div>
+    </div>
+   
+      <div class="text-white">
+        <div class="container">
+          <div class="row col-sm-12">
+            <div class='col-sm-6'>
+            <h1 style="height: 110px;color: greenyellow;margin-top: 50px;">Why Choose Our Fresh Organic Foods</h1>
+          </div>
+          <div class='col-sm-6'>
+            <p style="height: 100px;color: rgb(14, 15, 11);margin-top: 20px;">
+              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
+            </p>
+            <div style="height: 10px;color: rgb(14, 15, 11)">
+              <button type="button" class="btn btn-success btn-lg">View All</button>
+            </div>
+            
+          </div>
+
+            </div>
+          <div class="row col-sm-12">
+            <div class='col-sm-1' style="height: 300px;"></div>
+            <div class='col-sm-2' style="height: 300px;background-image: url('../../../../assets/images/Farming/Fruits.jpg');margin-top: 100px;">
+               
+            </div>
+            <div class='col-sm-1' style="height: 300px;"></div>
+            
+            
+              <div class='col-sm-2' style="height: 300px;background-image: url('../../../../assets/images/Farming/FarmingAssitant.jpg');margin-top: 100px;">
+                 
+              </div>
+              <div class='col-sm-1' style="height: 300px;"></div>
+              
+                <div class='col-sm-2' style="height: 300px;background-image: url('../../../../assets/images/Farming/Juice.jpg');margin-top: 100px;">
+                   
+                </div>
+                <div class='col-sm-1' style="height: 300px;"></div>
+                <div class='col-sm-2' style="height: 300px;background-image: url('../../../../assets/images/Farming/Milk.jpg');margin-top: 100px;">
+                   
+                </div>
+          </div>
+        </div>          
+            
+      </div> 
+    </div>
+  </div>
+
+<!-- Background image -->
+  
+    <!-- <a [routerLink]="['/about']">
+        <mat-icon style="margin-top: 10%;margin-left: 30%;" title="Click here to know more about us">assignment</mat-icon>
+        About Us
+    </a> -->
+    
+
+    
+

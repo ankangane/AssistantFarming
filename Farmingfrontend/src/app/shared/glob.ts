@@ -1,0 +1,1 @@
+export var rootUrl:string="http://localhost:33402/api/"
